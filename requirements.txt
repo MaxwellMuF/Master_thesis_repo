@@ -1,0 +1,7 @@
+# Inference engine (Blackwell-ready)
+vllm==0.10.1
+numpy>=1.26
+pandas>=2.2
+pyarrow>=15.0
+transformers>=4.45.0
+# huggingface-hub>=0.24.6
