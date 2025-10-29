@@ -1,0 +1,396 @@
+2025-10-18 20:02:07,459Z | INFO | Agent: Start iteration: 0
+2025-10-18 20:02:07,465Z | INFO | Agent: Start pipeline data iteration: 0
+2025-10-18 20:06:32,742Z | INFO | Agent: Finished pipeline data iteration: 0, duration: 0h 4m 25s, F1_0_Long: 0.1667
+2025-10-18 20:06:32,799Z | INFO | Agent: Start pipeline task iteration: 0
+2025-10-18 20:06:33,315Z | INFO | Agent: Use seed: 42, data_idx: xxxx, hadm_id: xxxx
+2025-10-18 20:06:55,287Z | INFO | Agent: Finished pipeline task iteration: 0, duration: 0h 0m 22s
+2025-10-18 20:06:55,312Z | INFO | Agent: Start pipeline task_2 iteration: 0
+2025-10-18 20:07:05,459Z | INFO | Agent: Finished pipeline task_2 iteration: 0, duration: 0h 0m 10s
+2025-10-18 20:07:05,484Z | INFO | Agent: Start iteration: 1
+2025-10-18 20:07:05,484Z | INFO | Agent: Start pipeline data iteration: 1
+2025-10-18 20:10:49,378Z | INFO | Agent: Finished pipeline data iteration: 1, duration: 0h 3m 44s, F1_0_Long: 0.1684
+2025-10-18 20:10:49,442Z | INFO | Agent: Start pipeline task iteration: 1
+2025-10-18 20:10:49,930Z | INFO | Agent: Use seed: 43, data_idx: xxxx, hadm_id: xxxx
+2025-10-18 20:11:20,178Z | INFO | Agent: Finished pipeline task iteration: 1, duration: 0h 0m 31s
+2025-10-18 20:11:20,200Z | INFO | Agent: Start pipeline task_2 iteration: 1
+2025-10-18 20:11:24,715Z | INFO | Agent: Finished pipeline task_2 iteration: 1, duration: 0h 0m 5s
+2025-10-18 20:11:24,740Z | INFO | Agent: Start iteration: 2
+2025-10-18 20:11:24,741Z | INFO | Agent: Start pipeline data iteration: 2
+2025-10-18 20:16:25,631Z | INFO | Agent: Finished pipeline data iteration: 2, duration: 0h 5m 1s, F1_0_Long: 0.1591
+2025-10-18 20:16:25,675Z | INFO | Agent: Start pipeline task iteration: 2
+2025-10-18 20:16:26,221Z | INFO | Agent: Use seed: 44, data_idx: xxxx, hadm_id: xxxx
+2025-10-18 20:16:46,416Z | INFO | Agent: Finished pipeline task iteration: 2, duration: 0h 0m 21s
+2025-10-18 20:16:46,441Z | INFO | Agent: Start pipeline task_2 iteration: 2
+2025-10-18 20:16:56,124Z | INFO | Agent: Finished pipeline task_2 iteration: 2, duration: 0h 0m 10s
+2025-10-18 20:16:56,147Z | INFO | Agent: Start iteration: 3
+2025-10-18 20:16:56,147Z | INFO | Agent: Start pipeline data iteration: 3
+2025-10-18 20:22:00,884Z | INFO | Agent: Finished pipeline data iteration: 3, duration: 0h 5m 5s, F1_0_Long: 0.1500
+2025-10-18 20:22:00,998Z | INFO | Agent: Start pipeline task iteration: 3
+2025-10-18 20:22:01,644Z | INFO | Agent: Use seed: 45, data_idx: xxxx, hadm_id: xxxx
+2025-10-18 20:22:17,979Z | INFO | Agent: Finished pipeline task iteration: 3, duration: 0h 0m 17s
+2025-10-18 20:22:18,004Z | INFO | Agent: Start pipeline task_2 iteration: 3
+2025-10-18 20:22:24,557Z | INFO | Agent: Finished pipeline task_2 iteration: 3, duration: 0h 0m 7s
+2025-10-18 20:22:24,581Z | INFO | Agent: Start iteration: 4
+2025-10-18 20:22:24,582Z | INFO | Agent: Start pipeline data iteration: 4
+2025-10-18 20:27:31,209Z | INFO | Agent: Finished pipeline data iteration: 4, duration: 0h 5m 7s, F1_0_Long: 0.1527
+2025-10-18 20:27:31,858Z | INFO | Agent: Start pipeline task iteration: 4
+2025-10-18 20:27:32,371Z | INFO | Agent: Use seed: 46, data_idx: xxxx, hadm_id: xxxx
+2025-10-18 20:27:59,363Z | INFO | Agent: Finished pipeline task iteration: 4, duration: 0h 0m 28s
+2025-10-18 20:27:59,386Z | INFO | Agent: Start pipeline task_2 iteration: 4
+2025-10-18 20:28:08,732Z | INFO | Agent: Finished pipeline task_2 iteration: 4, duration: 0h 0m 9s
+2025-10-18 20:28:08,756Z | INFO | Agent: Start iteration: 5
+2025-10-18 20:28:08,756Z | INFO | Agent: Start pipeline data iteration: 5
+2025-10-18 20:33:17,846Z | INFO | Agent: Finished pipeline data iteration: 5, duration: 0h 5m 9s, F1_0_Long: 0.1496
+2025-10-18 20:33:18,043Z | INFO | Agent: Start pipeline task iteration: 5
+2025-10-18 20:33:18,780Z | INFO | Agent: Use seed: 47, data_idx: xxxx, hadm_id: xxxx
+2025-10-18 20:33:37,374Z | INFO | Agent: Finished pipeline task iteration: 5, duration: 0h 0m 19s
+2025-10-18 20:33:37,398Z | INFO | Agent: Start pipeline task_2 iteration: 5
+2025-10-18 20:33:47,347Z | INFO | Agent: Finished pipeline task_2 iteration: 5, duration: 0h 0m 10s
+2025-10-18 20:33:47,371Z | INFO | Agent: Start iteration: 6
+2025-10-18 20:33:47,372Z | INFO | Agent: Start pipeline data iteration: 6
+2025-10-18 20:38:29,317Z | INFO | Agent: Finished pipeline data iteration: 6, duration: 0h 4m 42s, F1_0_Long: 0.1464
+2025-10-18 20:38:29,592Z | INFO | Agent: Start pipeline task iteration: 6
+2025-10-18 20:38:30,082Z | INFO | Agent: Use seed: 48, data_idx: xxxx, hadm_id: xxxx
+2025-10-18 20:39:01,977Z | INFO | Agent: Finished pipeline task iteration: 6, duration: 0h 0m 32s
+2025-10-18 20:39:02,003Z | INFO | Agent: Start pipeline task_2 iteration: 6
+2025-10-18 20:39:09,536Z | INFO | Agent: Finished pipeline task_2 iteration: 6, duration: 0h 0m 8s
+2025-10-18 20:39:09,559Z | INFO | Agent: Start iteration: 7
+2025-10-18 20:39:09,559Z | INFO | Agent: Start pipeline data iteration: 7
+2025-10-18 20:44:21,923Z | INFO | Agent: Finished pipeline data iteration: 7, duration: 0h 5m 12s, F1_0_Long: 0.1422
+2025-10-18 20:44:22,030Z | INFO | Agent: Start pipeline task iteration: 7
+2025-10-18 20:44:22,572Z | INFO | Agent: Use seed: 49, data_idx: xxxx, hadm_id: xxxx
+2025-10-18 20:44:54,468Z | INFO | Agent: Finished pipeline task iteration: 7, duration: 0h 0m 32s
+2025-10-18 20:44:54,493Z | INFO | Agent: Start pipeline task_2 iteration: 7
+2025-10-18 20:45:02,652Z | INFO | Agent: Finished pipeline task_2 iteration: 7, duration: 0h 0m 8s
+2025-10-18 20:45:02,675Z | INFO | Agent: Start iteration: 8
+2025-10-18 20:45:02,675Z | INFO | Agent: Start pipeline data iteration: 8
+2025-10-18 20:49:47,384Z | INFO | Agent: Finished pipeline data iteration: 8, duration: 0h 4m 45s, F1_0_Long: 0.1461
+2025-10-18 20:49:47,450Z | INFO | Agent: Start pipeline task iteration: 8
+2025-10-18 20:49:47,993Z | INFO | Agent: Use seed: 50, data_idx: xxxx, hadm_id: xxxx
+2025-10-18 20:50:14,316Z | INFO | Agent: Finished pipeline task iteration: 8, duration: 0h 0m 27s
+2025-10-18 20:50:14,347Z | INFO | Agent: Start pipeline task_2 iteration: 8
+2025-10-18 20:50:22,637Z | INFO | Agent: Finished pipeline task_2 iteration: 8, duration: 0h 0m 8s
+2025-10-18 20:50:22,661Z | INFO | Agent: Start iteration: 9
+2025-10-18 20:50:22,662Z | INFO | Agent: Start pipeline data iteration: 9
+2025-10-18 20:54:58,210Z | INFO | Agent: Finished pipeline data iteration: 9, duration: 0h 4m 36s, F1_0_Long: 0.1383
+2025-10-18 20:54:58,267Z | INFO | Agent: Start pipeline task iteration: 9
+2025-10-18 20:54:58,846Z | INFO | Agent: Use seed: 51, data_idx: xxxx, hadm_id: xxxx
+2025-10-18 20:55:25,998Z | INFO | Agent: Finished pipeline task iteration: 9, duration: 0h 0m 28s
+2025-10-18 20:55:26,023Z | INFO | Agent: Start pipeline task_2 iteration: 9
+2025-10-18 20:55:32,723Z | INFO | Agent: Finished pipeline task_2 iteration: 9, duration: 0h 0m 7s
+2025-10-18 20:55:32,747Z | INFO | Agent: Start iteration: 10
+2025-10-18 20:55:32,748Z | INFO | Agent: Start pipeline data iteration: 10
+2025-10-18 21:00:35,669Z | INFO | Agent: Finished pipeline data iteration: 10, duration: 0h 5m 3s, F1_0_Long: 0.1590
+2025-10-18 21:00:36,282Z | INFO | Agent: Start pipeline task iteration: 10
+2025-10-18 21:00:36,839Z | INFO | Agent: Use seed: 52, data_idx: xxxx, hadm_id: xxxx
+2025-10-18 21:01:09,952Z | INFO | Agent: Finished pipeline task iteration: 10, duration: 0h 0m 34s
+2025-10-18 21:01:09,977Z | INFO | Agent: Start pipeline task_2 iteration: 10
+2025-10-18 21:01:15,425Z | INFO | Agent: Finished pipeline task_2 iteration: 10, duration: 0h 0m 5s
+2025-10-18 21:01:15,450Z | INFO | Agent: Start iteration: 11
+2025-10-18 21:01:15,451Z | INFO | Agent: Start pipeline data iteration: 11
+2025-10-18 21:06:16,842Z | INFO | Agent: Finished pipeline data iteration: 11, duration: 0h 5m 1s, F1_0_Long: 0.1449
+2025-10-18 21:06:16,917Z | INFO | Agent: Start pipeline task iteration: 11
+2025-10-18 21:06:17,527Z | INFO | Agent: Use seed: 53, data_idx: xxxx, hadm_id: xxxx
+2025-10-18 21:06:39,377Z | INFO | Agent: Finished pipeline task iteration: 11, duration: 0h 0m 22s
+2025-10-18 21:06:39,403Z | INFO | Agent: Start pipeline task_2 iteration: 11
+2025-10-18 21:06:44,792Z | INFO | Agent: Finished pipeline task_2 iteration: 11, duration: 0h 0m 5s
+2025-10-18 21:06:44,928Z | INFO | Agent: Start iteration: 12
+2025-10-18 21:06:44,929Z | INFO | Agent: Start pipeline data iteration: 12
+2025-10-18 21:11:44,264Z | INFO | Agent: Finished pipeline data iteration: 12, duration: 0h 4m 59s, F1_0_Long: 0.1557
+2025-10-18 21:11:44,332Z | INFO | Agent: Start pipeline task iteration: 12
+2025-10-18 21:11:44,869Z | INFO | Agent: Use seed: 54, data_idx: xxxx, hadm_id: xxxx
+2025-10-18 21:12:06,673Z | INFO | Agent: Finished pipeline task iteration: 12, duration: 0h 0m 22s
+2025-10-18 21:12:06,698Z | INFO | Agent: Start pipeline task_2 iteration: 12
+2025-10-18 21:12:14,070Z | INFO | Agent: Finished pipeline task_2 iteration: 12, duration: 0h 0m 7s
+2025-10-18 21:12:14,093Z | INFO | Agent: Start iteration: 13
+2025-10-18 21:12:14,093Z | INFO | Agent: Start pipeline data iteration: 13
+2025-10-18 21:17:15,656Z | INFO | Agent: Finished pipeline data iteration: 13, duration: 0h 5m 2s, F1_0_Long: 0.1400
+2025-10-18 21:17:16,266Z | INFO | Agent: Start pipeline task iteration: 13
+2025-10-18 21:17:16,846Z | INFO | Agent: Use seed: 55, data_idx: xxxx, hadm_id: xxxx
+2025-10-18 21:17:38,925Z | INFO | Agent: Finished pipeline task iteration: 13, duration: 0h 0m 23s
+2025-10-18 21:17:38,949Z | INFO | Agent: Start pipeline task_2 iteration: 13
+2025-10-18 21:17:45,158Z | INFO | Agent: Finished pipeline task_2 iteration: 13, duration: 0h 0m 6s
+2025-10-18 21:17:45,181Z | INFO | Agent: Start iteration: 14
+2025-10-18 21:17:45,182Z | INFO | Agent: Start pipeline data iteration: 14
+2025-10-18 21:22:50,297Z | INFO | Agent: Finished pipeline data iteration: 14, duration: 0h 5m 5s, F1_0_Long: 0.1566
+2025-10-18 21:22:50,778Z | INFO | Agent: Start pipeline task iteration: 14
+2025-10-18 21:22:51,335Z | INFO | Agent: Use seed: 56, data_idx: xxxx, hadm_id: xxxx
+2025-10-18 21:23:08,055Z | INFO | Agent: Finished pipeline task iteration: 14, duration: 0h 0m 17s
+2025-10-18 21:23:08,079Z | INFO | Agent: Start pipeline task_2 iteration: 14
+2025-10-18 21:23:14,445Z | INFO | Agent: Finished pipeline task_2 iteration: 14, duration: 0h 0m 6s
+2025-10-18 21:23:14,469Z | INFO | Agent: Start iteration: 15
+2025-10-18 21:23:14,470Z | INFO | Agent: Start pipeline data iteration: 15
+2025-10-18 21:28:10,257Z | INFO | Agent: Finished pipeline data iteration: 15, duration: 0h 4m 56s, F1_0_Long: 0.1533
+2025-10-18 21:28:10,757Z | INFO | Agent: Start pipeline task iteration: 15
+2025-10-18 21:28:11,325Z | INFO | Agent: Use seed: 57, data_idx: xxxx, hadm_id: xxxx
+2025-10-18 21:28:37,256Z | INFO | Agent: Finished pipeline task iteration: 15, duration: 0h 0m 26s
+2025-10-18 21:28:37,281Z | INFO | Agent: Start pipeline task_2 iteration: 15
+2025-10-18 21:28:46,841Z | INFO | Agent: Finished pipeline task_2 iteration: 15, duration: 0h 0m 10s
+2025-10-18 21:28:46,862Z | INFO | Agent: Start iteration: 16
+2025-10-18 21:28:46,863Z | INFO | Agent: Start pipeline data iteration: 16
+2025-10-18 21:33:59,757Z | INFO | Agent: Finished pipeline data iteration: 16, duration: 0h 5m 13s, F1_0_Long: 0.1503
+2025-10-18 21:33:59,882Z | INFO | Agent: Start pipeline task iteration: 16
+2025-10-18 21:34:00,523Z | INFO | Agent: Use seed: 58, data_idx: xxxx, hadm_id: xxxx
+2025-10-18 21:34:27,941Z | INFO | Agent: Finished pipeline task iteration: 16, duration: 0h 0m 28s
+2025-10-18 21:34:27,967Z | INFO | Agent: Start pipeline task_2 iteration: 16
+2025-10-18 21:34:34,598Z | INFO | Agent: Finished pipeline task_2 iteration: 16, duration: 0h 0m 7s
+2025-10-18 21:34:34,620Z | INFO | Agent: Start iteration: 17
+2025-10-18 21:34:34,620Z | INFO | Agent: Start pipeline data iteration: 17
+2025-10-18 21:39:29,344Z | INFO | Agent: Finished pipeline data iteration: 17, duration: 0h 4m 55s, F1_0_Long: 0.1674
+2025-10-18 21:39:29,403Z | INFO | Agent: Start pipeline task iteration: 17
+2025-10-18 21:39:29,975Z | INFO | Agent: Use seed: 59, data_idx: xxxx, hadm_id: xxxx
+2025-10-18 21:39:49,884Z | INFO | Agent: Finished pipeline task iteration: 17, duration: 0h 0m 20s
+2025-10-18 21:39:49,909Z | INFO | Agent: Start pipeline task_2 iteration: 17
+2025-10-18 21:39:56,891Z | INFO | Agent: Finished pipeline task_2 iteration: 17, duration: 0h 0m 7s
+2025-10-18 21:39:56,915Z | INFO | Agent: Start iteration: 18
+2025-10-18 21:39:56,916Z | INFO | Agent: Start pipeline data iteration: 18
+2025-10-18 21:45:03,916Z | INFO | Agent: Finished pipeline data iteration: 18, duration: 0h 5m 7s, F1_0_Long: 0.1482
+2025-10-18 21:45:04,447Z | INFO | Agent: Start pipeline task iteration: 18
+2025-10-18 21:45:05,274Z | INFO | Agent: Use seed: 60, data_idx: xxxx, hadm_id: xxxx
+2025-10-18 21:45:28,564Z | INFO | Agent: Finished pipeline task iteration: 18, duration: 0h 0m 24s
+2025-10-18 21:45:28,590Z | INFO | Agent: Start pipeline task_2 iteration: 18
+2025-10-18 21:45:37,266Z | INFO | Agent: Finished pipeline task_2 iteration: 18, duration: 0h 0m 9s
+2025-10-18 21:45:37,290Z | INFO | Agent: Start iteration: 19
+2025-10-18 21:45:37,290Z | INFO | Agent: Start pipeline data iteration: 19
+2025-10-18 21:50:32,097Z | INFO | Agent: Finished pipeline data iteration: 19, duration: 0h 4m 55s, F1_0_Long: 0.1635
+2025-10-18 21:50:32,263Z | INFO | Agent: Start pipeline task iteration: 19
+2025-10-18 21:50:32,851Z | INFO | Agent: Use seed: 61, data_idx: xxxx, hadm_id: xxxx
+2025-10-18 21:51:05,237Z | INFO | Agent: Finished pipeline task iteration: 19, duration: 0h 0m 33s
+2025-10-18 21:51:05,263Z | INFO | Agent: Start pipeline task_2 iteration: 19
+2025-10-18 21:51:14,338Z | INFO | Agent: Finished pipeline task_2 iteration: 19, duration: 0h 0m 9s
+2025-10-18 21:51:14,361Z | INFO | Agent: Start iteration: 20
+2025-10-18 21:51:14,361Z | INFO | Agent: Start pipeline data iteration: 20
+2025-10-18 21:56:20,140Z | INFO | Agent: Finished pipeline data iteration: 20, duration: 0h 5m 6s, F1_0_Long: 0.1407
+2025-10-18 21:56:20,425Z | INFO | Agent: Start pipeline task iteration: 20
+2025-10-18 21:56:20,950Z | INFO | Agent: Use seed: 62, data_idx: xxxx, hadm_id: xxxx
+2025-10-18 21:56:43,586Z | INFO | Agent: Finished pipeline task iteration: 20, duration: 0h 0m 23s
+2025-10-18 21:56:43,610Z | INFO | Agent: Start pipeline task_2 iteration: 20
+2025-10-18 21:56:50,545Z | INFO | Agent: Finished pipeline task_2 iteration: 20, duration: 0h 0m 7s
+2025-10-18 21:56:50,567Z | INFO | Agent: Start iteration: 21
+2025-10-18 21:56:50,567Z | INFO | Agent: Start pipeline data iteration: 21
+2025-10-18 22:01:47,489Z | INFO | Agent: Finished pipeline data iteration: 21, duration: 0h 4m 57s, F1_0_Long: 0.1473
+2025-10-18 22:01:47,688Z | INFO | Agent: Start pipeline task iteration: 21
+2025-10-18 22:01:48,317Z | INFO | Agent: Use seed: 63, data_idx: xxxx, hadm_id: xxxx
+2025-10-18 22:02:09,322Z | INFO | Agent: Finished pipeline task iteration: 21, duration: 0h 0m 22s
+2025-10-18 22:02:09,348Z | INFO | Agent: Start pipeline task_2 iteration: 21
+2025-10-18 22:02:16,638Z | INFO | Agent: Finished pipeline task_2 iteration: 21, duration: 0h 0m 7s
+2025-10-18 22:02:16,656Z | INFO | Agent: Start iteration: 22
+2025-10-18 22:02:16,656Z | INFO | Agent: Start pipeline data iteration: 22
+2025-10-18 22:07:08,663Z | INFO | Agent: Finished pipeline data iteration: 22, duration: 0h 4m 52s, F1_0_Long: 0.1544
+2025-10-18 22:07:08,762Z | INFO | Agent: Start pipeline task iteration: 22
+2025-10-18 22:07:09,360Z | INFO | Agent: Use seed: 64, data_idx: xxxx, hadm_id: xxxx
+2025-10-18 22:07:28,505Z | INFO | Agent: Finished pipeline task iteration: 22, duration: 0h 0m 20s
+2025-10-18 22:07:28,531Z | INFO | Agent: Start pipeline task_2 iteration: 22
+2025-10-18 22:07:39,727Z | INFO | Agent: Finished pipeline task_2 iteration: 22, duration: 0h 0m 11s
+2025-10-18 22:07:39,751Z | INFO | Agent: Start iteration: 23
+2025-10-18 22:07:39,751Z | INFO | Agent: Start pipeline data iteration: 23
+2025-10-18 22:12:50,211Z | INFO | Agent: Finished pipeline data iteration: 23, duration: 0h 5m 10s, F1_0_Long: 0.1521
+2025-10-18 22:12:50,287Z | INFO | Agent: Start pipeline task iteration: 23
+2025-10-18 22:12:50,839Z | INFO | Agent: Use seed: 65, data_idx: xxxx, hadm_id: xxxx
+2025-10-18 22:13:16,057Z | INFO | Agent: Finished pipeline task iteration: 23, duration: 0h 0m 26s
+2025-10-18 22:13:16,083Z | INFO | Agent: Start pipeline task_2 iteration: 23
+2025-10-18 22:13:25,948Z | INFO | Agent: Finished pipeline task_2 iteration: 23, duration: 0h 0m 10s
+2025-10-18 22:13:25,972Z | INFO | Agent: Start iteration: 24
+2025-10-18 22:13:25,972Z | INFO | Agent: Start pipeline data iteration: 24
+2025-10-18 22:18:33,971Z | INFO | Agent: Finished pipeline data iteration: 24, duration: 0h 5m 8s, F1_0_Long: 0.1463
+2025-10-18 22:18:34,051Z | INFO | Agent: Start pipeline task iteration: 24
+2025-10-18 22:18:34,664Z | INFO | Agent: Use seed: 66, data_idx: xxxx, hadm_id: xxxx
+2025-10-18 22:19:02,418Z | INFO | Agent: Finished pipeline task iteration: 24, duration: 0h 0m 28s
+2025-10-18 22:19:02,443Z | INFO | Agent: Start pipeline task_2 iteration: 24
+2025-10-18 22:19:10,767Z | INFO | Agent: Finished pipeline task_2 iteration: 24, duration: 0h 0m 8s
+2025-10-18 22:19:10,792Z | INFO | Agent: Start iteration: 25
+2025-10-18 22:19:10,793Z | INFO | Agent: Start pipeline data iteration: 25
+2025-10-18 22:23:53,947Z | INFO | Agent: Finished pipeline data iteration: 25, duration: 0h 4m 43s, F1_0_Long: 0.1415
+2025-10-18 22:23:54,131Z | INFO | Agent: Start pipeline task iteration: 25
+2025-10-18 22:23:54,713Z | INFO | Agent: Use seed: 67, data_idx: xxxx, hadm_id: xxxx
+2025-10-18 22:24:21,411Z | INFO | Agent: Finished pipeline task iteration: 25, duration: 0h 0m 27s
+2025-10-18 22:24:21,438Z | INFO | Agent: Start pipeline task_2 iteration: 25
+2025-10-18 22:24:31,407Z | INFO | Agent: Finished pipeline task_2 iteration: 25, duration: 0h 0m 10s
+2025-10-18 22:24:31,431Z | INFO | Agent: Start iteration: 26
+2025-10-18 22:24:31,432Z | INFO | Agent: Start pipeline data iteration: 26
+2025-10-18 22:29:29,415Z | INFO | Agent: Finished pipeline data iteration: 26, duration: 0h 4m 58s, F1_0_Long: 0.1485
+2025-10-18 22:29:29,787Z | INFO | Agent: Start pipeline task iteration: 26
+2025-10-18 22:29:30,391Z | INFO | Agent: Use seed: 68, data_idx: xxxx, hadm_id: xxxx
+2025-10-18 22:29:50,116Z | INFO | Agent: Finished pipeline task iteration: 26, duration: 0h 0m 20s
+2025-10-18 22:29:50,143Z | INFO | Agent: Start pipeline task_2 iteration: 26
+2025-10-18 22:29:58,832Z | INFO | Agent: Finished pipeline task_2 iteration: 26, duration: 0h 0m 9s
+2025-10-18 22:29:58,856Z | INFO | Agent: Start iteration: 27
+2025-10-18 22:29:58,856Z | INFO | Agent: Start pipeline data iteration: 27
+2025-10-18 22:34:39,226Z | INFO | Agent: Finished pipeline data iteration: 27, duration: 0h 4m 40s, F1_0_Long: 0.1520
+2025-10-18 22:34:39,343Z | INFO | Agent: Start pipeline task iteration: 27
+2025-10-18 22:34:40,116Z | INFO | Agent: Use seed: 69, data_idx: xxxx, hadm_id: xxxx
+2025-10-18 22:35:03,197Z | INFO | Agent: Finished pipeline task iteration: 27, duration: 0h 0m 24s
+2025-10-18 22:35:03,223Z | INFO | Agent: Start pipeline task_2 iteration: 27
+2025-10-18 22:35:12,241Z | INFO | Agent: Finished pipeline task_2 iteration: 27, duration: 0h 0m 9s
+2025-10-18 22:35:12,266Z | INFO | Agent: Start iteration: 28
+2025-10-18 22:35:12,266Z | INFO | Agent: Start pipeline data iteration: 28
+2025-10-18 22:40:09,494Z | INFO | Agent: Finished pipeline data iteration: 28, duration: 0h 4m 57s, F1_0_Long: 0.1493
+2025-10-18 22:40:09,576Z | INFO | Agent: Start pipeline task iteration: 28
+2025-10-18 22:40:10,174Z | INFO | Agent: Use seed: 70, data_idx: xxxx, hadm_id: xxxx
+2025-10-18 22:40:30,024Z | INFO | Agent: Finished pipeline task iteration: 28, duration: 0h 0m 20s
+2025-10-18 22:40:30,049Z | INFO | Agent: Start pipeline task_2 iteration: 28
+2025-10-18 22:40:39,810Z | INFO | Agent: Finished pipeline task_2 iteration: 28, duration: 0h 0m 10s
+2025-10-18 22:40:39,834Z | INFO | Agent: Start iteration: 29
+2025-10-18 22:40:39,834Z | INFO | Agent: Start pipeline data iteration: 29
+2025-10-18 22:45:34,189Z | INFO | Agent: Finished pipeline data iteration: 29, duration: 0h 4m 54s, F1_0_Long: 0.1470
+2025-10-18 22:45:34,267Z | INFO | Agent: Start pipeline task iteration: 29
+2025-10-18 22:45:34,933Z | INFO | Agent: Use seed: 71, data_idx: xxxx, hadm_id: xxxx
+2025-10-18 22:46:00,633Z | INFO | Agent: Finished pipeline task iteration: 29, duration: 0h 0m 26s
+2025-10-18 22:46:00,660Z | INFO | Agent: Start pipeline task_2 iteration: 29
+2025-10-18 22:46:09,196Z | INFO | Agent: Finished pipeline task_2 iteration: 29, duration: 0h 0m 9s
+2025-10-18 22:46:09,219Z | INFO | Agent: Start iteration: 30
+2025-10-18 22:46:09,220Z | INFO | Agent: Start pipeline data iteration: 30
+2025-10-18 22:50:51,753Z | INFO | Agent: Finished pipeline data iteration: 30, duration: 0h 4m 43s, F1_0_Long: 0.1384
+2025-10-18 22:50:51,846Z | INFO | Agent: Start pipeline task iteration: 30
+2025-10-18 22:50:52,446Z | INFO | Agent: Use seed: 72, data_idx: xxxx, hadm_id: xxxx
+2025-10-18 22:51:14,027Z | INFO | Agent: Finished pipeline task iteration: 30, duration: 0h 0m 22s
+2025-10-18 22:51:14,052Z | INFO | Agent: Start pipeline task_2 iteration: 30
+2025-10-18 22:51:20,120Z | INFO | Agent: Finished pipeline task_2 iteration: 30, duration: 0h 0m 6s
+2025-10-18 22:51:20,143Z | INFO | Agent: Start iteration: 31
+2025-10-18 22:51:20,143Z | INFO | Agent: Start pipeline data iteration: 31
+2025-10-18 22:56:16,148Z | INFO | Agent: Finished pipeline data iteration: 31, duration: 0h 4m 56s, F1_0_Long: 0.1499
+2025-10-18 22:56:16,394Z | INFO | Agent: Start pipeline task iteration: 31
+2025-10-18 22:56:17,017Z | INFO | Agent: Use seed: 73, data_idx: xxxx, hadm_id: xxxx
+2025-10-18 22:56:41,341Z | INFO | Agent: Finished pipeline task iteration: 31, duration: 0h 0m 25s
+2025-10-18 22:56:41,368Z | INFO | Agent: Start pipeline task_2 iteration: 31
+2025-10-18 22:56:52,162Z | INFO | Agent: Finished pipeline task_2 iteration: 31, duration: 0h 0m 11s
+2025-10-18 22:56:52,186Z | INFO | Agent: Start iteration: 32
+2025-10-18 22:56:52,186Z | INFO | Agent: Start pipeline data iteration: 32
+2025-10-18 23:01:48,292Z | INFO | Agent: Finished pipeline data iteration: 32, duration: 0h 4m 56s, F1_0_Long: 0.1495
+2025-10-18 23:01:48,788Z | INFO | Agent: Start pipeline task iteration: 32
+2025-10-18 23:01:49,404Z | INFO | Agent: Use seed: 74, data_idx: xxxx, hadm_id: xxxx
+2025-10-18 23:02:15,493Z | INFO | Agent: Finished pipeline task iteration: 32, duration: 0h 0m 27s
+2025-10-18 23:02:15,528Z | INFO | Agent: Start pipeline task_2 iteration: 32
+2025-10-18 23:02:24,036Z | INFO | Agent: Finished pipeline task_2 iteration: 32, duration: 0h 0m 9s
+2025-10-18 23:02:24,060Z | INFO | Agent: Start iteration: 33
+2025-10-18 23:02:24,060Z | INFO | Agent: Start pipeline data iteration: 33
+2025-10-18 23:04:19,926Z | INFO | Agent: Finished pipeline data iteration: 33, duration: 0h 1m 56s, F1_0_Long: 0.1702
+2025-10-18 23:04:20,349Z | INFO | Agent: Start pipeline task iteration: 33
+2025-10-18 23:04:20,925Z | INFO | Agent: Use seed: 75, data_idx: xxxx, hadm_id: xxxx
+2025-10-18 23:04:42,755Z | INFO | Agent: Finished pipeline task iteration: 33, duration: 0h 0m 22s
+2025-10-18 23:04:42,782Z | INFO | Agent: Start pipeline task_2 iteration: 33
+2025-10-18 23:04:48,824Z | INFO | Agent: Finished pipeline task_2 iteration: 33, duration: 0h 0m 6s
+2025-10-18 23:04:48,847Z | INFO | Agent: Start iteration: 34
+2025-10-18 23:04:48,847Z | INFO | Agent: Start pipeline data iteration: 34
+2025-10-18 23:09:59,762Z | INFO | Agent: Finished pipeline data iteration: 34, duration: 0h 5m 11s, F1_0_Long: 0.1500
+2025-10-18 23:09:59,932Z | INFO | Agent: Start pipeline task iteration: 34
+2025-10-18 23:10:00,550Z | INFO | Agent: Use seed: 76, data_idx: xxxx, hadm_id: xxxx
+2025-10-18 23:10:20,853Z | INFO | Agent: Finished pipeline task iteration: 34, duration: 0h 0m 21s
+2025-10-18 23:10:20,879Z | INFO | Agent: Start pipeline task_2 iteration: 34
+2025-10-18 23:10:26,829Z | INFO | Agent: Finished pipeline task_2 iteration: 34, duration: 0h 0m 6s
+2025-10-18 23:10:26,850Z | INFO | Agent: Start iteration: 35
+2025-10-18 23:10:26,850Z | INFO | Agent: Start pipeline data iteration: 35
+2025-10-18 23:15:29,611Z | INFO | Agent: Finished pipeline data iteration: 35, duration: 0h 5m 3s, F1_0_Long: 0.1305
+2025-10-18 23:15:29,692Z | INFO | Agent: Start pipeline task iteration: 35
+2025-10-18 23:15:30,296Z | INFO | Agent: Use seed: 77, data_idx: xxxx, hadm_id: xxxx
+2025-10-18 23:15:52,664Z | INFO | Agent: Finished pipeline task iteration: 35, duration: 0h 0m 23s
+2025-10-18 23:15:52,690Z | INFO | Agent: Start pipeline task_2 iteration: 35
+2025-10-18 23:16:04,157Z | INFO | Agent: Finished pipeline task_2 iteration: 35, duration: 0h 0m 11s
+2025-10-18 23:16:04,186Z | INFO | Agent: Start iteration: 36
+2025-10-18 23:16:04,187Z | INFO | Agent: Start pipeline data iteration: 36
+2025-10-18 23:21:09,642Z | INFO | Agent: Finished pipeline data iteration: 36, duration: 0h 5m 5s, F1_0_Long: 0.1337
+2025-10-18 23:21:09,804Z | INFO | Agent: Start pipeline task iteration: 36
+2025-10-18 23:21:10,407Z | INFO | Agent: Use seed: 78, data_idx: xxxx, hadm_id: xxxx
+2025-10-18 23:21:43,996Z | INFO | Agent: Finished pipeline task iteration: 36, duration: 0h 0m 34s
+2025-10-18 23:21:44,022Z | INFO | Agent: Start pipeline task_2 iteration: 36
+2025-10-18 23:21:50,041Z | INFO | Agent: Finished pipeline task_2 iteration: 36, duration: 0h 0m 6s
+2025-10-18 23:21:50,062Z | INFO | Agent: Start iteration: 37
+2025-10-18 23:21:50,063Z | INFO | Agent: Start pipeline data iteration: 37
+2025-10-18 23:26:47,059Z | INFO | Agent: Finished pipeline data iteration: 37, duration: 0h 4m 57s, F1_0_Long: 0.1382
+2025-10-18 23:26:47,207Z | INFO | Agent: Start pipeline task iteration: 37
+2025-10-18 23:26:47,844Z | INFO | Agent: Use seed: 79, data_idx: xxxx, hadm_id: xxxx
+2025-10-18 23:27:16,993Z | INFO | Agent: Finished pipeline task iteration: 37, duration: 0h 0m 30s
+2025-10-18 23:27:17,020Z | INFO | Agent: Start pipeline task_2 iteration: 37
+2025-10-18 23:27:25,323Z | INFO | Agent: Finished pipeline task_2 iteration: 37, duration: 0h 0m 8s
+2025-10-18 23:27:25,344Z | INFO | Agent: Start iteration: 38
+2025-10-18 23:27:25,344Z | INFO | Agent: Start pipeline data iteration: 38
+2025-10-18 23:32:17,173Z | INFO | Agent: Finished pipeline data iteration: 38, duration: 0h 4m 52s, F1_0_Long: 0.1618
+2025-10-18 23:32:17,316Z | INFO | Agent: Start pipeline task iteration: 38
+2025-10-18 23:32:17,919Z | INFO | Agent: Use seed: 80, data_idx: xxxx, hadm_id: xxxx
+2025-10-18 23:32:42,168Z | INFO | Agent: Finished pipeline task iteration: 38, duration: 0h 0m 25s
+2025-10-18 23:32:42,193Z | INFO | Agent: Start pipeline task_2 iteration: 38
+2025-10-18 23:32:49,843Z | INFO | Agent: Finished pipeline task_2 iteration: 38, duration: 0h 0m 8s
+2025-10-18 23:32:49,867Z | INFO | Agent: Start iteration: 39
+2025-10-18 23:32:49,867Z | INFO | Agent: Start pipeline data iteration: 39
+2025-10-18 23:37:33,223Z | INFO | Agent: Finished pipeline data iteration: 39, duration: 0h 4m 43s, F1_0_Long: 0.1584
+2025-10-18 23:37:33,461Z | INFO | Agent: Start pipeline task iteration: 39
+2025-10-18 23:37:34,078Z | INFO | Agent: Use seed: 81, data_idx: xxxx, hadm_id: xxxx
+2025-10-18 23:37:54,975Z | INFO | Agent: Finished pipeline task iteration: 39, duration: 0h 0m 22s
+2025-10-18 23:37:55,002Z | INFO | Agent: Start pipeline task_2 iteration: 39
+2025-10-18 23:38:03,977Z | INFO | Agent: Finished pipeline task_2 iteration: 39, duration: 0h 0m 9s
+2025-10-18 23:38:03,994Z | INFO | Agent: Start iteration: 40
+2025-10-18 23:38:03,994Z | INFO | Agent: Start pipeline data iteration: 40
+2025-10-18 23:42:56,409Z | INFO | Agent: Finished pipeline data iteration: 40, duration: 0h 4m 52s, F1_0_Long: 0.1427
+2025-10-18 23:42:57,534Z | INFO | Agent: Start pipeline task iteration: 40
+2025-10-18 23:42:58,138Z | INFO | Agent: Use seed: 82, data_idx: xxxx, hadm_id: xxxx
+2025-10-18 23:43:24,565Z | INFO | Agent: Finished pipeline task iteration: 40, duration: 0h 0m 27s
+2025-10-18 23:43:24,592Z | INFO | Agent: Start pipeline task_2 iteration: 40
+2025-10-18 23:43:31,916Z | INFO | Agent: Finished pipeline task_2 iteration: 40, duration: 0h 0m 7s
+2025-10-18 23:43:31,941Z | INFO | Agent: Start iteration: 41
+2025-10-18 23:43:31,941Z | INFO | Agent: Start pipeline data iteration: 41
+2025-10-18 23:48:22,426Z | INFO | Agent: Finished pipeline data iteration: 41, duration: 0h 4m 50s, F1_0_Long: 0.1547
+2025-10-18 23:48:22,662Z | INFO | Agent: Start pipeline task iteration: 41
+2025-10-18 23:48:23,300Z | INFO | Agent: Use seed: 83, data_idx: xxxx, hadm_id: xxxx
+2025-10-18 23:48:43,235Z | INFO | Agent: Finished pipeline task iteration: 41, duration: 0h 0m 21s
+2025-10-18 23:48:43,262Z | INFO | Agent: Start pipeline task_2 iteration: 41
+2025-10-18 23:48:51,118Z | INFO | Agent: Finished pipeline task_2 iteration: 41, duration: 0h 0m 8s
+2025-10-18 23:48:51,135Z | INFO | Agent: Start iteration: 42
+2025-10-18 23:48:51,135Z | INFO | Agent: Start pipeline data iteration: 42
+2025-10-18 23:53:47,856Z | INFO | Agent: Finished pipeline data iteration: 42, duration: 0h 4m 57s, F1_0_Long: 0.1505
+2025-10-18 23:53:47,967Z | INFO | Agent: Start pipeline task iteration: 42
+2025-10-18 23:53:48,616Z | INFO | Agent: Use seed: 84, data_idx: xxxx, hadm_id: xxxx
+2025-10-18 23:54:11,839Z | INFO | Agent: Finished pipeline task iteration: 42, duration: 0h 0m 24s
+2025-10-18 23:54:11,867Z | INFO | Agent: Start pipeline task_2 iteration: 42
+2025-10-18 23:54:17,640Z | INFO | Agent: Finished pipeline task_2 iteration: 42, duration: 0h 0m 6s
+2025-10-18 23:54:17,663Z | INFO | Agent: Start iteration: 43
+2025-10-18 23:54:17,663Z | INFO | Agent: Start pipeline data iteration: 43
+2025-10-18 23:59:13,435Z | INFO | Agent: Finished pipeline data iteration: 43, duration: 0h 4m 56s, F1_0_Long: 0.1529
+2025-10-18 23:59:13,880Z | INFO | Agent: Start pipeline task iteration: 43
+2025-10-18 23:59:14,483Z | INFO | Agent: Use seed: 85, data_idx: xxxx, hadm_id: xxxx
+2025-10-18 23:59:35,752Z | INFO | Agent: Finished pipeline task iteration: 43, duration: 0h 0m 22s
+2025-10-18 23:59:35,779Z | INFO | Agent: Start pipeline task_2 iteration: 43
+2025-10-18 23:59:45,759Z | INFO | Agent: Finished pipeline task_2 iteration: 43, duration: 0h 0m 10s
+2025-10-18 23:59:45,783Z | INFO | Agent: Start iteration: 44
+2025-10-18 23:59:45,783Z | INFO | Agent: Start pipeline data iteration: 44
+2025-10-19 00:04:30,174Z | INFO | Agent: Finished pipeline data iteration: 44, duration: 0h 4m 44s, F1_0_Long: 0.1520
+2025-10-19 00:04:31,021Z | INFO | Agent: Start pipeline task iteration: 44
+2025-10-19 00:04:32,116Z | INFO | Agent: Use seed: 86, data_idx: xxxx, hadm_id: xxxx
+2025-10-19 00:04:56,190Z | INFO | Agent: Finished pipeline task iteration: 44, duration: 0h 0m 25s
+2025-10-19 00:04:56,218Z | INFO | Agent: Start pipeline task_2 iteration: 44
+2025-10-19 00:05:10,895Z | INFO | Agent: Finished pipeline task_2 iteration: 44, duration: 0h 0m 15s
+2025-10-19 00:05:10,919Z | INFO | Agent: Start iteration: 45
+2025-10-19 00:05:10,919Z | INFO | Agent: Start pipeline data iteration: 45
+2025-10-19 00:10:06,606Z | INFO | Agent: Finished pipeline data iteration: 45, duration: 0h 4m 56s, F1_0_Long: 0.1535
+2025-10-19 00:10:06,781Z | INFO | Agent: Start pipeline task iteration: 45
+2025-10-19 00:10:07,419Z | INFO | Agent: Use seed: 87, data_idx: xxxx, hadm_id: xxxx
+2025-10-19 00:10:25,571Z | INFO | Agent: Finished pipeline task iteration: 45, duration: 0h 0m 19s
+2025-10-19 00:10:25,603Z | INFO | Agent: Start pipeline task_2 iteration: 45
+2025-10-19 00:10:35,445Z | INFO | Agent: Finished pipeline task_2 iteration: 45, duration: 0h 0m 10s
+2025-10-19 00:10:35,470Z | INFO | Agent: Start iteration: 46
+2025-10-19 00:10:35,470Z | INFO | Agent: Start pipeline data iteration: 46
+2025-10-19 00:15:36,222Z | INFO | Agent: Finished pipeline data iteration: 46, duration: 0h 5m 1s, F1_0_Long: 0.1474
+2025-10-19 00:15:36,339Z | INFO | Agent: Start pipeline task iteration: 46
+2025-10-19 00:15:36,973Z | INFO | Agent: Use seed: 88, data_idx: xxxx, hadm_id: xxxx
+2025-10-19 00:15:56,032Z | INFO | Agent: Finished pipeline task iteration: 46, duration: 0h 0m 20s
+2025-10-19 00:15:56,060Z | INFO | Agent: Start pipeline task_2 iteration: 46
+2025-10-19 00:16:04,439Z | INFO | Agent: Finished pipeline task_2 iteration: 46, duration: 0h 0m 8s
+2025-10-19 00:16:04,463Z | INFO | Agent: Start iteration: 47
+2025-10-19 00:16:04,464Z | INFO | Agent: Start pipeline data iteration: 47
+2025-10-19 00:21:06,856Z | INFO | Agent: Finished pipeline data iteration: 47, duration: 0h 5m 2s, F1_0_Long: 0.1478
+2025-10-19 00:21:07,723Z | INFO | Agent: Start pipeline task iteration: 47
+2025-10-19 00:21:08,382Z | INFO | Agent: Use seed: 89, data_idx: xxxx, hadm_id: xxxx
+2025-10-19 00:21:27,099Z | INFO | Agent: Finished pipeline task iteration: 47, duration: 0h 0m 19s
+2025-10-19 00:21:27,129Z | INFO | Agent: Start pipeline task_2 iteration: 47
+2025-10-19 00:21:33,365Z | INFO | Agent: Finished pipeline task_2 iteration: 47, duration: 0h 0m 6s
+2025-10-19 00:21:33,389Z | INFO | Agent: Start iteration: 48
+2025-10-19 00:21:33,389Z | INFO | Agent: Start pipeline data iteration: 48
+2025-10-19 00:26:22,103Z | INFO | Agent: Finished pipeline data iteration: 48, duration: 0h 4m 49s, F1_0_Long: 0.1368
+2025-10-19 00:26:22,291Z | INFO | Agent: Start pipeline task iteration: 48
+2025-10-19 00:26:22,907Z | INFO | Agent: Use seed: 90, data_idx: xxxx, hadm_id: xxxx
+2025-10-19 00:26:44,448Z | INFO | Agent: Finished pipeline task iteration: 48, duration: 0h 0m 22s
+2025-10-19 00:26:44,475Z | INFO | Agent: Start pipeline task_2 iteration: 48
+2025-10-19 00:26:53,988Z | INFO | Agent: Finished pipeline task_2 iteration: 48, duration: 0h 0m 10s
+2025-10-19 00:26:54,017Z | INFO | Agent: Start iteration: 49
+2025-10-19 00:26:54,017Z | INFO | Agent: Start pipeline data iteration: 49
+2025-10-19 00:31:42,388Z | INFO | Agent: Finished pipeline data iteration: 49, duration: 0h 4m 48s, F1_0_Long: 0.1653
+2025-10-19 00:31:42,529Z | INFO | Agent: Agent finished. Output folder: /workspace/data/output/Qwen3-32B/2025-10-18-19-59-10
