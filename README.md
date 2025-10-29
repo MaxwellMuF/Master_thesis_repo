@@ -1,0 +1,2 @@
+# Note to sensitive data
+Please note that all sensitive data has been deleted or anonymized from the code and the data folder. Unfortunately, this also applies to prompts, as the prompts created by the model sometimes contain patient-specific information. Furthermore, parts of the code that also contain patient-specific information have been removed because, for example, they show outputs from the model and process them further. See end of gitignore for the excluded code files.

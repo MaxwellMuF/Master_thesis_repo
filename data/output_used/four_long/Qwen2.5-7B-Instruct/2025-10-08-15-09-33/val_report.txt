@@ -1,0 +1,41 @@
+## General ##
+Date: 2025-10-08
+Used GPU: a100
+
+## Data and Model ##
+Dataset: val.parquet, Shape: (8568, 42)
+Prompt set: four_long.json, #prompts: 4
+Model: Qwen/Qwen2.5-7B-Instruct
+
+## p_data_config ##
+Temperature: 0.6
+Max tokens: 10000
+Role with patient note: user
+Enable thinking: True
+Continue final message: False
+Add generation prompt: True
+Improve prompt: False
+
+## Time last prompt##
+Make prompts: 0h 0m 2s
+Predictions: 0h 35m 45s
+Evaluation: 0h 0m 4s
+Script total: 0h 35m 51s
+
+## Evaluation ##
+Evaluation dataset: val.parquet, length: 8568, metric: LONG_CODES, mean codes GT: 12.7
+|  Prompt  | Precision |  Recall  |    F1    |  F1 = 0  | Prompt len | Output len |  Duration  | Codes Pred |
+-------------------------------------------------------------------------------------------------------------
+|    0     |  0.0951   |  0.0512  |  0.0633  |   4887   |    2802    |    439     | 0h 21m 36s |     7      |
+|    1     |  0.0547   |  0.0277  |  0.0343  |   6415   |    2352    |    1324    | 0h 29m 40s |     5      |
+|    2     |  0.0596   |  0.0315  |  0.0390  |   5989   |    1641    |    1458    | 0h 35m 3s  |     6      |
+|    3     |  0.0598   |  0.0265  |  0.0342  |   6477   |    2021    |    2045    | 0h 35m 45s |     4      |
+
+Evaluation dataset: val.parquet, length: 8568, metric: SHORT_CODES, mean codes GT: 12.7
+|  Prompt  | Precision |  Recall  |    F1    |  F1 = 0  | Prompt len | Output len |  Duration  | Codes Pred |
+-------------------------------------------------------------------------------------------------------------
+|    0     |  0.1192   |  0.0636  |  0.0787  |   4330   |    2802    |    439     | 0h 21m 36s |     7      |
+|    1     |  0.0865   |  0.0409  |  0.0517  |   5630   |    2352    |    1324    | 0h 29m 40s |     5      |
+|    2     |  0.0904   |  0.0459  |  0.0574  |   5148   |    1641    |    1458    | 0h 35m 3s  |     6      |
+|    3     |  0.0930   |  0.0390  |  0.0511  |   5739   |    2021    |    2045    | 0h 35m 45s |     4      |
+

@@ -1,0 +1,41 @@
+## General ##
+Date: 2025-10-09
+Used GPU: h200
+
+## Data and Model ##
+Dataset: val.parquet, Shape: (8568, 42)
+Prompt set: four_long.json, #prompts: 4
+Model: Qwen/Qwen3-32B
+
+## p_data_config ##
+Temperature: 0.6
+Max tokens: 10000
+Role with patient note: user
+Enable thinking: True
+Continue final message: False
+Add generation prompt: True
+Improve prompt: False
+
+## Time last prompt##
+Make prompts: 0h 0m 3s
+Predictions: 1h 39m 35s
+Evaluation: 0h 0m 6s
+Script total: 1h 39m 44s
+
+## Evaluation ##
+Evaluation dataset: val.parquet, length: 8568, metric: LONG_CODES, mean codes GT: 12.7
+|  Prompt  | Precision |  Recall  |    F1    |  F1 = 0  | Prompt len | Output len |  Duration  | Codes Pred |
+-------------------------------------------------------------------------------------------------------------
+|    0     |  0.2306   |  0.1828  |  0.1922  |   1586   |    2802    |    6135    | 1h 59m 35s |     10     |
+|    1     |  0.1851   |  0.1002  |  0.1192  |   3440   |    2352    |    6403    | 1h 50m 25s |     6      |
+|    2     |  0.2237   |  0.1594  |  0.1747  |   2042   |    1641    |    6954    | 2h 8m 24s  |     9      |
+|    3     |  0.2336   |  0.1351  |  0.1603  |   2355   |    2021    |    5932    | 1h 39m 35s |     6      |
+
+Evaluation dataset: val.parquet, length: 8568, metric: SHORT_CODES, mean codes GT: 12.7
+|  Prompt  | Precision |  Recall  |    F1    |  F1 = 0  | Prompt len | Output len |  Duration  | Codes Pred |
+-------------------------------------------------------------------------------------------------------------
+|    0     |  0.3037   |  0.2325  |  0.2481  |   1100   |    2802    |    6135    | 1h 59m 35s |     10     |
+|    1     |  0.2705   |  0.1332  |  0.1632  |   2527   |    2352    |    6403    | 1h 50m 25s |     6      |
+|    2     |  0.2998   |  0.2035  |  0.2272  |   1418   |    1641    |    6954    | 2h 8m 24s  |     9      |
+|    3     |  0.3081   |  0.1702  |  0.2052  |   1658   |    2021    |    5932    | 1h 39m 35s |     6      |
+

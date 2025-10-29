@@ -1,0 +1,58 @@
+{
+  "run": {
+    "date": "2025-10-09",
+    "started_at": "2025-10-09T00:17:07Z",
+    "finished_at": "2025-10-09T00:17:07Z",
+    "status": "ok"
+  },
+  "data": {
+    "name": "val.parquet",
+    "rows": 8568,
+    "shape": [
+      8568,
+      33
+    ]
+  },
+  "model": {
+    "name": "Qwen/Qwen2.5-7B-Instruct"
+  },
+  "prompts": {
+    "set": "three_best_agent.json",
+    "num_prompts": 3
+  },
+  "p_data_config": {
+    "path_data": "/workspace/data/mimic-iv/icd-10/hosp/",
+    "name_data": "val.parquet",
+    "path_prompt_set": "/workspace/data/prompts_agent/",
+    "name_prompts_data": "three_best_agent.json",
+    "name_model": "Qwen/Qwen2.5-7B-Instruct",
+    "temperature": 0.6,
+    "max_tokens": 10000,
+    "role_to_add_note": "user",
+    "enable_thinking": true,
+    "continue_final_message": false,
+    "add_generation_prompt": true,
+    "type_gpu": "a100",
+    "path_output": "/workspace/data/output/"
+  },
+  "p_task_config": {
+    "name_prompt_task_1": "one_task.json",
+    "name_prompt_task_2": "one_task_2.json",
+    "random_seed": 42,
+    "max_iterations": 3,
+    "improve_prompt": false
+  },
+  "timings_seconds": {
+    "make_prompts": 1.524,
+    "predictions": 2942.947,
+    "evaluation": 4.218,
+    "total": 2948.693
+  },
+  "timings_hms": {
+    "make_prompts": "0h 0m 2s",
+    "predictions": "0h 49m 3s",
+    "evaluation": "0h 0m 4s",
+    "total": "0h 49m 9s"
+  },
+  "artifacts": {}
+}

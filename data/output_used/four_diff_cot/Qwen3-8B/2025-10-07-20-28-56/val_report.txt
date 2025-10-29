@@ -1,0 +1,41 @@
+## General ##
+Date: 2025-10-08
+Used GPU: a100
+
+## Data and Model ##
+Dataset: val.parquet, Shape: (8568, 42)
+Prompt set: four_diff_cot.json, #prompts: 4
+Model: Qwen/Qwen3-8B
+
+## p_data_config ##
+Temperature: 0.6
+Max tokens: 10000
+Role with patient note: user
+Enable thinking: True
+Continue final message: False
+Add generation prompt: True
+Improve prompt: False
+
+## Time last prompt##
+Make prompts: 0h 0m 2s
+Predictions: 4h 35m 22s
+Evaluation: 0h 0m 6s
+Script total: 4h 35m 31s
+
+## Evaluation ##
+Evaluation dataset: val.parquet, length: 8568, metric: LONG_CODES, mean codes GT: 12.7
+|  Prompt  | Precision |  Recall  |    F1    |  F1 = 0  | Prompt len | Output len |  Duration  | Codes Pred |
+-------------------------------------------------------------------------------------------------------------
+|    0     |  0.0873   |  0.0670  |  0.0705  |   4459   |    226     |    7358    | 2h 49m 19s |     8      |
+|    1     |  0.0886   |  0.0702  |  0.0729  |   4305   |    250     |    8086    | 3h 13m 21s |     8      |
+|    2     |  0.0918   |  0.0740  |  0.0762  |   4084   |    366     |    8358    | 3h 25m 12s |     9      |
+|    3     |  0.0948   |  0.0809  |  0.0817  |   3800   |    323     |   10246    | 4h 35m 22s |     10     |
+
+Evaluation dataset: val.parquet, length: 8568, metric: SHORT_CODES, mean codes GT: 12.7
+|  Prompt  | Precision |  Recall  |    F1    |  F1 = 0  | Prompt len | Output len |  Duration  | Codes Pred |
+-------------------------------------------------------------------------------------------------------------
+|    0     |  0.1442   |  0.1046  |  0.1125  |   3243   |    226     |    7358    | 2h 49m 19s |     8      |
+|    1     |  0.1461   |  0.1092  |  0.1160  |   3051   |    250     |    8086    | 3h 13m 21s |     8      |
+|    2     |  0.1493   |  0.1144  |  0.1204  |   2905   |    366     |    8358    | 3h 25m 12s |     9      |
+|    3     |  0.1534   |  0.1251  |  0.1289  |   2650   |    323     |   10246    | 4h 35m 22s |     10     |
+
